@@ -80,7 +80,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Md. Hasanul Bari's Rock, Paper, Scissors Game</title>
+<title>Hasanul Bari's Rock, Paper, Scissors Game</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
